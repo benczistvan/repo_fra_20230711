@@ -1,3 +1,3 @@
 //Teszt függvények
 
-//Móodosítasok az A-branch-ben
+//Módosítasok az A-branch-ben
